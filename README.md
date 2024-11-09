@@ -14,3 +14,6 @@ Montei o mapa conceitual de Entidade - Relacionamento (como pedido pelo meu prof
 
 ### DATASET
 Eu montei as tabelas de banco de dados usando o mysql.
+
+### Código
+O código no colab analisa os datasets (informações sobre a rotina de escuta de música do cliente e feedback) e abre uma página com a nova recomendção da música para o cliente em questão, juntamente de uma opção de like ou deslike (assim como mostrado no final do pdf). Esse feedback ajuda a deixar a análise mais inteligênte do estilo de música favorito de cada ouvinte.
